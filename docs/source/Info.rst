@@ -1,7 +1,7 @@
-Installation
+Informations
 ============
 
-Installing Kong is pretty simple. Here is a step by step plan on how to do it.
+Welcome to the Info page of Maya
 
 .. note::
     Kong is available on Pypi as ``django-kong``, but trunk is probably your
