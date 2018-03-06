@@ -1,7 +1,7 @@
-Management Commands
+Commands
 ===================
 
-Kong ships with management commands that allows you to easily run your tests.  There are a couple of different ways to run tests, based on how you want things to work.
+You can check all avaible commands of the bot. Some commands migh be reserved to moderators, admin or the Bot Onwer. 
 
 check_sites
 -----------
